@@ -8,10 +8,12 @@ Computers and hardware have always been an intrest of mine, and I took a course 
 After that course i took one more, and after that I did know that I whanted to woork whit programing.
 
 >I live whit my family {Me :man: Wife :woman: Child :boy: Child :girl:}.
+>
 >My intrests are:
->- [Warhammer](https://en.wikipedia.org/wiki/Warhammer_40,000)
->- [Star Wars](https://sv.wikipedia.org/wiki/Star_Wars)
->- ![Roadtripps](assets/waynes-world-mike-myers.gif)
+>
+>   >- [Warhammer](https://en.wikipedia.org/wiki/Warhammer_40,000)
+>   >- [Star Wars](https://sv.wikipedia.org/wiki/Star_Wars)
+>   >- ![Roadtripps](assets/waynes-world-mike-myers.gif)
 
 ### What I have studie related to IT befor IT-Högskolan ###
 
