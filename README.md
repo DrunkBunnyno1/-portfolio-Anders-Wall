@@ -7,7 +7,10 @@ I hawe worked as a security oficer :guardsman: for 26 years, and nowe I whant to
 Computers and hardware have always been an intrest of mine, and I took a course in C# and then i whas hooked.
 After that course i took one more, and after that I did know that I whanted to woork whit programing.
 
-I live whit my family {:man::woman: :boy: :girl:}
+I live whit my family {:man::woman: :boy: :girl:}.
+My intrests are:
+- [Warhammer](https://en.wikipedia.org/wiki/Warhammer_40,000)
+- [Star Wars](https://sv.wikipedia.org/wiki/Star_Wars)
 
 
 
