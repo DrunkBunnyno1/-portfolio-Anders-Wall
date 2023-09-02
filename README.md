@@ -7,13 +7,13 @@ I hawe worked as a security oficer :guardsman: for 26 years, and nowe I whant to
 Computers and hardware have always been an intrest of mine, and I took a course in C# and then i whas hooked.
 After that course i took one more, and after that I did know that I whanted to woork whit programing.
 
-I live whit my family {:man::woman: :boy: :girl:}.
-My intrests are:
-- [Warhammer](https://en.wikipedia.org/wiki/Warhammer_40,000)
-- [Star Wars](https://sv.wikipedia.org/wiki/Star_Wars)
-- ![Roadtripps](assets/waynes-world-mike-myers.gif)
+>I live whit my family {Me :man: Wife :woman: Child :boy: Child :girl:}.
+>My intrests are:
+>- [Warhammer](https://en.wikipedia.org/wiki/Warhammer_40,000)
+>- [Star Wars](https://sv.wikipedia.org/wiki/Star_Wars)
+>- ![Roadtripps](assets/waynes-world-mike-myers.gif)
 
-### What i did studie on my wahy to IT-Högskolan ###
+### What I have studie related to IT befor IT-Högskolan ###
 
 Corse | What I studied  | 
 --- | --- |
@@ -24,7 +24,17 @@ Digital creating 1 | Adobe Photoshop Elements |
 | | Simpel Move making| 
 | |creating podraido|
 | | editing musik and film|
-| | typing script (Pod,Movies)| 
+| | typing script (Pod,Movies)|
+
+### Waht i have lurnd and dune in IT-Högskolan this far ###
+
+*updated when one subjekt is dune*
+
+Corse | What I studied  | 
+--- | --- |
+Python | *ongoing*|
+
+
 
 
 
