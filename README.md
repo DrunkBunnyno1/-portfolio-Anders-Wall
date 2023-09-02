@@ -13,6 +13,7 @@ My intrests are:
 - [Star Wars](https://sv.wikipedia.org/wiki/Star_Wars)
 - ![Roadtripps](assets/waynes-world-mike-myers.gif)
 
+### What i did studie on my wahy to IT-Högskolan ###
 
 Corse | What I studied  | 
 --- | --- |
