@@ -1,13 +1,13 @@
 # Portfolio-Anders-Wall
 
-My name is **Anders** and im a student :man_student: at *IT-Högskolan*, and im studing **AI** and **ML**.
-My education whil take two years and after that i hope to find a jobb with **ML**.
+My name is **Anders** and im a student :man_student: at *IT-Högskolan*, and im studying **AI** and **ML**.
+My education will take two years and after that I hope to find a jobb with **ML**.
 
-I hawe worked as a security oficer :guardsman: for 26 years, and nowe I whant to do somthing difrent.
-Computers and hardware have always been an intrest of mine, and I took a course in C# and then i whas hooked.
-After that course i took one more, and after that I did know that I whanted to woork whit programing.
+I hawe worked as a security officer :guardsman: for 26 years, and now I want to do something different.
+Computers and hardware have always been an interest of mine, and I took a course in C# and then I whas hooked.
+After that course I took one more, and after that I did know that I wanted to work with programing.
 
->I live whit my family {Me :man: Wife :woman: Child :boy: Child :girl:}.
+>I live with my family {Me :man: Wife :woman: Child :boy: Child :girl:}.
 >
 >My intrests are:
 >
@@ -15,22 +15,22 @@ After that course i took one more, and after that I did know that I whanted to w
 >   >- [Star Wars](https://sv.wikipedia.org/wiki/Star_Wars)
 >   >- ![Roadtripps](assets/waynes-world-mike-myers.gif)
 
-### What I have studie related to IT befor IT-Högskolan ###
+### What I have studie related to IT before IT-Högskolan ###
 
-Corse | What I studied  | 
+Course | What I studied  | 
 --- | --- |
 Programing 1 | Basic C# Console |
-Programing 2 | OOP C#, and ending whit Windows form |
+Programing 2 | OOP C#, and ending with Windows form |
 Web development 1 | Basic HTML, CSS and JS |
 Digital creating 1 | Adobe Photoshop Elements |
-| | Simpel Move making| 
-| |creating podraido|
-| | editing musik and film|
+| | Simple Movie making| 
+| |creating podradio|
+| | editing music and film|
 | | typing script (Pod,Movies)|
 
-### Waht i have lurnd and dune in IT-Högskolan this far ###
+### What I have learned and done in IT-Högskolan this far ###
 
-*updated when one subjekt is dune*
+*updated when one subjekt is done*
 
 Corse | What I studied  | 
 --- | --- |
