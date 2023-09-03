@@ -1,4 +1,4 @@
-# Portfolio-Anders-Wall
+# Anders Wall
 
 My name is **Anders** and im a student :man_student: at *IT-Högskolan*, and im studying **AI** and **ML**.
 My education will take two years and after that I hope to find a jobb with **ML**.
